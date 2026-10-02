@@ -1,7 +1,7 @@
 # Gikomba Stall Analysis
 
-**Full name:** [Enter your full name]  
-**Cohort:** [Enter your PLP cohort]
+**Full name:** Seenoi Naurori  
+**Cohort:** 1
 
 ## Business problem
 
